@@ -1,0 +1,58 @@
+.has-bg-img{
+   background-image: url(./Images/1.jpg);
+    background-size: cover;   
+}
+#tag{
+    margin-top: 15px;
+    margin-left: 20%;
+    margin-bottom: 15px;
+  width: fit-content;
+  height: 400px;
+  border: none;
+  padding: 70px 100px;
+  background-color: white;
+}
+#txt{
+ text-align: center;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.nav-link{
+  color: navy !important;
+}
+.change{
+  color: white !important;
+}
+.container-fluid{
+  background-color: white !important;
+}
+.col-3{
+  
+  background-color: navy !important;
+}
+.col-6{
+  background-color: navy !important;
+}
+.text-primary{
+  color: navy !important;
+}
+.btn-outline-primary :hover{
+  color: navy !important;  
+}
+.img{
+  float: inline-start;
+  width: 70px;
+  height: 70px;
+}
+#foot{
+  color: navy !important;
+  background-color: white !important;
+}
+.logo{
+  width: 100px;
+  height: 35px;
+  background-color: none;
+}
+#mg{
+  height: 40px;
+  
+}

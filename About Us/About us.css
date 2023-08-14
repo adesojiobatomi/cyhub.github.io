@@ -1,0 +1,66 @@
+.has-bg-img{
+    background-image: url(../Images/2.jpg);
+    
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.form{
+    width: 900px;
+    height: 500px;
+    padding: 3px 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    background-color: white;  
+}
+#txt{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+.change{
+    color: white !important;
+  }
+
+  .nav-link{
+    color: navy !important;
+  }
+  .change{
+    color: white !important;
+  }
+  .container-fluid{
+    background-color: white !important;
+  }
+  .col-3{
+    background-color: navy !important;
+  }
+  .col-6{
+    background-color: navy !important;
+  }
+  .text-primary{
+    color: navy !important;
+  }
+  .btn-outline-primary :hover{
+    color: navy !important;  
+  }
+  .about{
+    color: navy;
+  }
+  .display-4{
+    color:navy !important;
+  }
+  #foot{
+    color: navy !important;
+  }
+  .logo{
+    width: 100px;
+    height: 35px;
+    background-color: none;
+  }
+  #mg{
+    height: 40px;
+    
+  }
